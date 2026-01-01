@@ -55,9 +55,16 @@ I am currently deepening my knowledge in **data architectures, distributed proce
 🖊️ **Interested in connecting or collaborating on a project?**  
 Feel free to reach out — I’m always open to new challenges and opportunities!
 
-    </a>
-    &nbsp;|&nbsp;
-    <a href="mailto:lourdes.otero@example.com">
-        <img alt="Email" src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"> Email 📧
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-lourdes-otero/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:mluluotero@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Lulio7">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  </a>
 </p>
