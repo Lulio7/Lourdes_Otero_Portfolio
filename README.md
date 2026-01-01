@@ -1,76 +1,59 @@
-# Lourdes Otero | Data Analyst 📊
+# 👩‍💻 Data Analyst | Data Engineer
 
-📊 Data Analyst passionate about process development and improvement of businesses, with experience in finance, supply chain, and international trade. Focused on understanding business needs and designing solutions to achieve them.
+📊 **Data Analyst with 3 years of experience**, specialized in analytics, reporting, and business intelligence, currently growing into a **Data Engineer / Data Consultant** role. I have experience designing end-to-end data solutions that connect business needs with scalable, reliable, and efficient technical implementations.
 
-🚀 Always seeking new challenges and opportunities to learn and grow.  
----
-
-## 💻 What can I bring to your team?
-
-🔹 Collecting, transforming, and preparing data, ensuring quality and integrity for advanced analysis.  
-🔹 Designing and implementing Machine Learning algorithms for prediction, optimization, and predictive maintenance.  
-🔹 Developing statistical and analytical models that generate actionable insights and improve decision-making.  
-🔹 Expertise in Business Intelligence (BI): creating reports and dashboards that turn complex data into understandable and useful information.  
-🔹 Strong ability to interact with users and clients, understanding their needs and translating them into data-driven solutions.  
-🔹 Adaptability, critical thinking, and a positive attitude to tackle new challenges 💃.
+My focus is on **building efficient data models**, **developing data pipelines**, **automating processes**, and **optimizing performance** to support data-driven decision-making. I collaborate closely with cross-functional teams in agile environments, bringing an analytical, structured, and impact-driven mindset.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack  
 
-### 📊 Business Intelligence & Data Tools
+### **Data & Analytics**  
+- Power BI (DAX, Dataflows, Data Modeling, Performance Optimization)  
+- SQL  
+- Python (pandas, numpy, matplotlib, seaborn, plotly)  
+- Alteryx  
 
-- ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=sqlite) **SQL**  
-- ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoft-excel&logoColor=white) **Excel**  
-- ![Power BI](https://img.shields.io/badge/-PowerBI-yellow?logo=power-bi) **Power BI**  
-- ![Tableau](https://img.shields.io/badge/-Tableau-lightblue?logo=tableau) **Tableau**  
-- ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-blue?logo=looker) **Looker Studio**  
-- ![Alteryx](https://img.shields.io/badge/-Alteryx-blue?logo=alteryx&logoColor=white) **Alteryx**
+### **Data Engineering**  
+- Databricks  
+- Apache Spark  
+- Data Lakes  
+- ETL / ELT Pipelines  
+- Data Warehousing  
 
-### 🐍 Python Ecosystem
+### **Dev & Cloud**  
+- Docker  
+- Git / GitHub  
+- Azure DevOps  
+- CI/CD concepts  
 
-- ![Python](https://img.shields.io/badge/-Python-blue?logo=python) **Python**  
-- **Data Analysis:** `pandas`, `numpy`  
-- **Data Visualization:** `matplotlib`, `seaborn`, `plotly`  
-- **Machine Learning:** `scikit-learn`, `xgboost`  
-- **Data Processing & Modeling:** `statsmodels`, `scipy`  
-- **Jupyter Notebooks**, `Google Colab`
-
-### 🧰 Other Tools
-
-- ![Git](https://img.shields.io/badge/-Git-black?logo=git) **Git & GitHub**  
-- ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode) **Visual Studio Code**
-
----
-
-## 📁 Featured Projects
-
-Here you'll find a curated selection of projects where I apply my technical and analytical skills to real-world problems. These projects highlight my ability to:
-
-- Build dashboards and interactive reports for decision-making  
-- Automate processes and create ETL pipelines  
-- Analyze complex datasets and deliver business insights  
-- Apply machine learning and statistical methods to solve practical challenges  
-- Communicate results to technical and non-technical stakeholders
+### **Others**  
+- Excel  
+- Power Query  
+- Agile / Scrum  
 
 ---
 
-## 🤝 Let’s Connect!
+## 💡 What I Bring to Your Team
 
-📧 **Email:** [mluluotero@gmail.com](mailto:mluluotero@gmail.com)  
-🔗 **LinkedIn:** [Maria Lourdes Otero](https://www.linkedin.com/in/maria-lourdes-otero/)
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/maria-lourdes-otero">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"> LinkedIn 🔗
-    </a>
-</p>
+🔹 Design and optimization of **analytical data models** focused on performance, scalability, and data quality.  
+🔹 Development of **data pipelines and ETL/ELT processes**, ensuring reliability and traceability.  
+🔹 Automation of reporting and data workflows to reduce manual effort and improve efficiency.  
+🔹 Descriptive, diagnostic, and exploratory data analysis using Python and SQL.  
+🔹 Creation of **clear and actionable dashboards** aligned with financial and operational KPIs.  
+🔹 Collaboration with technical and business stakeholders in Agile/Scrum environments.  
+🔹 Clear communication of insights to both technical and non-technical audiences.  
 
 ---
 
-## 🧠 Keywords
+## 🚀 Growing into Data Engineering
 
-**Business Intelligence** | **Python** | **Machine Learning** | **BI Analyst** | **Data Analyst** | **Power BI** | **Looker Studio** | **Data Science**
+I am currently deepening my knowledge in **data architectures, distributed processing, and scalable data solutions**, with a strong focus on **Databricks, Spark, and Docker**, aiming to deliver value from both an analytical and engineering perspective.
+
+---
+
+🖊️ **Interested in connecting or collaborating on a project?**  
+Feel free to reach out — I’m always open to new challenges and opportunities!
 
     </a>
     &nbsp;|&nbsp;
